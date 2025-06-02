@@ -1,7 +1,7 @@
 title: DuckDB Blog
 description: "Learn about DuckDB, the SQLite for analytics — SQL tutorials, use cases, and more."
 baseurl: ""   # for GitHub Pages, set if repo is username.github.io/reponame
-url: "https://yourusername.github.io" # change to your GitHub pages URL
+url: "https://josmyrose.github.io/DuckDBblog/" # change to your GitHub pages URL
 
 theme: minima
 plugins:
